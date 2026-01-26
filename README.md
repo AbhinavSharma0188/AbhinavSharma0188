@@ -75,16 +75,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
