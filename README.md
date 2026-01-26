@@ -78,8 +78,8 @@
 ## 🏆 GitHub Achievements  
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" />
+  
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -89,11 +89,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavSharma0188&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavSharma0188&theme=tokyonight" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -101,13 +101,13 @@
 
 ## 📈 Contribution Graph  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night" alt="Contribution Graph" />
 
 ---
 
 ## 👀 Profile Visitors  
 
-<img src="https://visitcount.itsvg.in/api?id=AbhinavSharma0188&icon=2&color=12" />
+<img src="https://visitcount.itsvg.in/api?id=AbhinavSharma0188&icon=2&color=12" alt="Profile Views" />
 
 ---
 
