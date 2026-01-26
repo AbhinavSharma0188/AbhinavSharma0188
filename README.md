@@ -79,8 +79,6 @@
 
 <div align="center">
 
-[![Achievements](https://github-profile-achievement-badges.vercel.app/api?username=AbhinavSharma0188&theme=tokyonight)](https://github.com/AbhinavSharma0188)
-
 <img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" />
 
 </div>
