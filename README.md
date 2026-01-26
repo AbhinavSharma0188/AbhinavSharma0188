@@ -1,4 +1,4 @@
-give me <div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhinav+Sharma+👋;Full+Stack+MERN+Developer+🚀;Building+Scalable+Web+Apps;Learning+DSA+%26+Advanced+Backend" />
 
