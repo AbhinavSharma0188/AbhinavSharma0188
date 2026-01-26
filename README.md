@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhinav+Sharma+👋;Full+Stack+MERN+Developer+🚀;Building+Scalable+Web+Apps;Learning+DSA+%26+Advanced+Backend" />
 
@@ -78,7 +78,9 @@
 ## 🏆 GitHub Achievements  
 
 <div align="center">
-  
+
+[![Achievements](https://github-profile-achievement-badges.vercel.app/api?username=AbhinavSharma0188&theme=tokyonight)](https://github.com/AbhinavSharma0188)
+
 <img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" />
 
 </div>
@@ -113,7 +115,7 @@
 
 <div align="center">
 
-🔥 *“Code. Break. Learn. Improve. Repeat.”*  
-⭐ Don’t forget to star repositories you like!
+🔥 *"Code. Break. Learn. Improve. Repeat."*  
+⭐ Don't forget to star repositories you like!
 
-</div> 
+</div>
