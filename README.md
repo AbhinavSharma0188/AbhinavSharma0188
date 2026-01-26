@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhinav+Sharma+👋;Full+Stack+MERN+Developer+🚀;Building+Scalable+Web+Apps;Learning+DSA+%26+Advanced+Backend" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=38B2AC&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abhinav+Sharma+👋;Full+Stack+MERN+Developer+🚀;Building+Scalable+Web+Apps;Learning+DSA+%26+Advanced+Backend" />
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AbhinavSharma0188/AbhinavSharma0188/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
@@ -91,7 +91,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavSharma0188&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavSharma0188&theme=tokyonight" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&layout=compact" />
 
@@ -101,7 +101,7 @@
 
 ## 📈 Contribution Graph  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbhinavSharma0188&theme=tokyo-night" />
 
 ---
 
