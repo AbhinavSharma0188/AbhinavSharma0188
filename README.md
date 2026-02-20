@@ -79,10 +79,13 @@
 
 <div align="center">
 
+<!-- Public Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavSharma0188&theme=tokyonight" alt="GitHub Streak" />
-<br/>
+
+<!-- Streak Stats including private contributions -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&include_private=true" alt="GitHub Streak" />
+
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&layout=compact" alt="Top Languages" />
 
 </div>
