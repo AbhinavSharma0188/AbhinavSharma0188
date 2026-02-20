@@ -94,7 +94,7 @@
 
 ## 📈 Contribution Graph  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night&hide_border=true&area=true&count_private=true" alt="Contribution Graph" />
 
 ---
 
