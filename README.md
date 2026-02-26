@@ -115,14 +115,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=4&column=4&row=2" alt="Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
