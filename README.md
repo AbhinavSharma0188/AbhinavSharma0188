@@ -35,16 +35,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -114,8 +104,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -125,48 +115,18 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=1a1b27&color=38b2ac&line=38b2ac&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=4&column=4&row=2" alt="Trophies" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-> **Setup required:** Create `.github/workflows/snake.yml` in this repo, paste the code below, then go to **Actions tab → Generate Snake → Run workflow**. After it runs, delete this note.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+## 📈 Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=1a1b27&color=38b2ac&line=38b2ac&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -185,9 +145,7 @@ jobs:
 ## 💡 Random Dev Quote
 
 <div align="center">
-
-[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 ---
