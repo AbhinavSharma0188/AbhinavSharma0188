@@ -1,15 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20🚀&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%F0%9F%9A%80&descAlignY=60&descAlign=50" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Abhinav+Sharma+👋;Full+Stack+MERN+Developer+🚀;Building+Scalable+%26+Production-Ready+Apps;Open+to+Exciting+Opportunities+💼;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Abhinav+Sharma+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+%26+Production-Ready+Apps;Open+to+Exciting+Opportunities+%F0%9F%92%BC;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AbhinavSharma0188&icon=2&color=12)](https://visitcount.itsvg.in)
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinavSharma0188&color=38B2AC&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/AbhinavSharma0188?label=Followers&style=social)](https://github.com/AbhinavSharma0188)
-&nbsp;
+&nbsp;&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/AbhinavSharma0188?label=Total%20Stars&style=social)](https://github.com/AbhinavSharma0188)
 
 </div>
@@ -18,7 +20,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623834622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a4136474c544745395a514f4f4e4e4a5250397278344a62315a4f47394163736e636672416e304344426f7450576a4e5a462f636f64696e672d667265616b2e676966" />
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 👋 Hi, I'm **Abhinav Sharma**
 - 🚀 Full Stack Web Developer specializing in the **MERN Stack**
@@ -37,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavSharma0188&theme=tokyonight&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -112,18 +114,12 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavSharma0188&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -131,45 +127,58 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&theme=tokyo-night&hide_border=true&area=true&count_private=true" alt="Contribution Graph" width="100%" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=1a1b27&color=38b2ac&line=38b2ac&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+> **Setup required:** Create `.github/workflows/snake.yml` in this repo, paste the code below, then go to **Actions tab → Generate Snake → Run workflow**. After it runs, delete this note.
 
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
 
-> ⚠️ **Snake Setup:** Create `.github/workflows/snake.yml` in your profile repo with:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [ { cron: "0 0 * * *" } ]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_token: ${{ secrets.GITHUB_TOKEN }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+---
+
+## 🎯 Currently Working On
+
+```text
+🔨 Building:   A full-stack scalable web app with MERN + Socket.io
+📖 Learning:   Advanced DSA, System Design & AWS Architecture
+🎯 Goal:       Land a Full Stack Developer role at a top product company
+💡 Exploring:  Docker, CI/CD Pipelines & Microservices
+```
 
 ---
 
@@ -177,19 +186,9 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
----
-
-## 🎯 Currently Working On
-```text
-🔨 Building:   A full-stack scalable web app with MERN + Socket.io
-📖 Learning:   Advanced DSA, System Design & AWS Architecture
-🎯 Goal:       Land a Full Stack Developer role at a top product company
-💡 Exploring:  Docker, CI/CD Pipelines & Microservices
-```
 
 ---
 
