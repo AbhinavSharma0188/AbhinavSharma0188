@@ -178,63 +178,65 @@ const abhinav: Developer = {
 
 <div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/AbhinavSharma0188">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavSharma0188&repo=AbhinavSharma0188&theme=tokyonight&hide_border=true&title_color=38b2ac&icon_color=4fd1c5&text_color=e2e8f0&bg_color=0d1117" />
+<a href="https://github.com/AbhinavSharma0188/Major-project-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavSharma0188&repo=Major-project-1&theme=tokyonight&hide_border=true&title_color=38b2ac&icon_color=4fd1c5&text_color=e2e8f0&bg_color=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AbhinavSharma0188/Flow_Forge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavSharma0188&repo=Flow_Forge&theme=tokyonight&hide_border=true&title_color=f472b6&icon_color=818cf8&text_color=e2e8f0&bg_color=0d1117" />
 </a>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>🔨 Project 1 — Real-Time Chat App</b></summary>
+<details open>
+<summary><b>🔥 Project 1 — Vybe · Social Media Platform</b></summary>
 <br/>
 
 > **Tech Stack:**
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 > ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
+> ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-A fully featured real-time chat application with rooms, private messaging, typing indicators, and read receipts. Built with **MERN + Socket.io**, deployed on Render.
+**Vybe** is a full-featured MERN social media platform that combines content sharing, real-time interactions, AI-powered content creation, notifications, and advanced analytics into one seamless ecosystem. Designed to deliver a scalable, modern, and engaging social networking experience.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+**✨ Key Highlights:**
+- 📸 Content sharing with real-time feed updates via Socket.io
+- 🤖 AI-powered content creation tools built-in
+- 🔔 Smart notification system
+- 📊 Advanced analytics dashboard for creators
+- 🔐 Secure JWT-based authentication
+
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge&logoColor=white)](https://vybe-svus.onrender.com)
+[![📂 Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavSharma0188/Major-project-1)
 
 </details>
 
-<details>
-<summary><b>🛒 Project 2 — Full Stack E-Commerce Platform</b></summary>
+<details open>
+<summary><b>🤖 Project 2 — Flow-Forge · AI Content Creation Platform</b></summary>
 <br/>
 
 > **Tech Stack:**
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
+> ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+> ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+> ![Google AI](https://img.shields.io/badge/AI_Powered-4285F4?style=flat-square&logo=google&logoColor=white)
 
-A production-ready e-commerce platform featuring JWT auth, product management, cart system, and Razorpay/Stripe payment integration.
+**Flow-Forge** is a full-stack MERN AI-powered content creation platform designed to help creators generate high-quality content efficiently. Integrates intelligent writing tools, Google authentication, revenue tracking, and an advanced analytics dashboard into a modern and scalable system.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+**✨ Key Highlights:**
+- 🧠 Intelligent AI writing tools for high-quality content generation
+- 🔑 Google OAuth authentication
+- 💰 Revenue tracking & monetization insights
+- 📈 Advanced analytics dashboard
+- ⚡ Modern, scalable MERN architecture
 
-</details>
-
-<details>
-<summary><b>📊 Project 3 — Developer Dashboard (Portfolio OS)</b></summary>
-<br/>
-
-> **Tech Stack:**
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
-> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-
-An OS-style developer portfolio with draggable windows, dark terminal, live GitHub stats integration, and project explorer.
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-f472b6?style=for-the-badge&logoColor=white)](https://flow-forge-frontend.onrender.com/)
+[![📂 Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavSharma0188/Flow_Forge)
 
 </details>
 
