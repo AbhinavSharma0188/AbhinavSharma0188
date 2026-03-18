@@ -1,88 +1,147 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Sharma&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%F0%9F%9A%80&descAlignY=60&descAlign=50" width="100%" />
-
 <div align="center">
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--           ANIMATED HERO BANNER — CAPSULE RENDER               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d4a,100:0d1117&height=280&section=header&text=ABHINAV%20SHARMA&fontSize=68&fontColor=38b2ac&animation=fadeIn&fontAlignY=45&desc=⚡%20Full%20Stack%20MERN%20Developer%20⚡&descAlignY=68&descAlign=50&descSize=22&descColor=4fd1c5" />
+
+<!-- ══ TYPING ANIMATION ══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Abhinav+Sharma+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+%26+Production-Ready+Apps;Open+to+Exciting+Opportunities+%F0%9F%92%BC;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=38B2AC&center=true&vCenter=true&random=false&width=700&height=40&lines=🚀+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;🔥+Scalable+Apps+%7C+Clean+Code+%7C+Real+Impact;💡+DSA+Grinder+%7C+System+Design+Enthusiast;🌐+Open+Source+Contributor+%7C+Tech+Explorer;✨+console.log(%22Hello%2C+World%22)%3B+%2F%2F+always+%26+forever" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbhinavSharma0188&color=38B2AC&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AbhinavSharma0188?label=Followers&style=social)](https://github.com/AbhinavSharma0188)
-&nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/AbhinavSharma0188?label=Total%20Stars&style=social)](https://github.com/AbhinavSharma0188)
+<!-- ══ PROFILE BADGES ══ -->
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinavSharma0188&color=38b2ac&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AbhinavSharma0188?label=Followers&style=for-the-badge&color=38b2ac&labelColor=0d1117)](https://github.com/AbhinavSharma0188)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/AbhinavSharma0188?label=Stars&style=for-the-badge&color=fbbf24&labelColor=0d1117)](https://github.com/AbhinavSharma0188)
 
 </div>
 
----
+<!-- ══ SVG WAVE DIVIDER ══ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 💫 About Me
+<br/>
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-- 👋 Hi, I'm **Abhinav Sharma**
-- 🚀 Full Stack Web Developer specializing in the **MERN Stack**
-- 💻 Proficient in **React · Node.js · MongoDB · JavaScript**
-- 📚 Currently strengthening **DSA & Backend Architecture**
-- 🎯 Goal: Build **scalable, production-ready web applications**
-- 🔥 Passionate about **performance optimization & clean UI/UX**
-- 🌱 Always learning, always growing
-- ⚡ Fun fact: *I debug with console.log and I'm not ashamed*
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      QUICK CONNECT BAR                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-56131135a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsharma3614@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abhinavsharma224)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav3614/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhinavSharma0188)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abhinavsharma224)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7EDnJMRy)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32224723/abhinav-sharma)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DanceConscious9855/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/abhinavsharma3614/)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Abhinav-Sharma-4709)
 
 </div>
 
----
+<br/>
 
-## 🧠 Tech Stack
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      ABOUT ME — TERMINAL                      -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `whoami`
+
+<img align="right" alt="Coding GIF" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```typescript
+const abhinav: Developer = {
+  name:       "Abhinav Sharma",
+  alias:      "AbhinavSharma0188",
+  location:   "India 🇮🇳",
+  role:       "Full Stack MERN Developer",
+  
+  currentlyBuilding: "Scalable MERN + Socket.io App",
+  currentlyLearning: ["Advanced DSA", "AWS", "System Design"],
+  
+  strengths: [
+    "React Ecosystem",
+    "Node.js / Express APIs",
+    "MongoDB Architecture",
+    "Real-time with Socket.io",
+    "Performance Optimization",
+  ],
+
+  philosophy: "Ship fast. Iterate faster. Never stop learning.",
+  funFact:    "I debug with console.log() — no shame, no regrets.",
+  openTo:     "Exciting full-time opportunities 💼",
+};
+```
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   ANIMATED SKILL BANNER                       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,bootstrap,vite,docker,aws,firebase,git,github,vscode,postman&perline=10&theme=dark" />
 
-### 🌐 Frontend
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     TECH STACK — DASHBOARD                    -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> Tech Stack
+
+<details open>
+<summary><b>🌐 Frontend Engineering</b></summary>
+<br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Engineering</b></summary>
+<br/>
+
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### 🗄️ Databases
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 DevOps & Hosting
+</details>
+
+<details open>
+<summary><b>☁️ DevOps, Cloud & Hosting</b></summary>
+<br/>
+
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
@@ -90,65 +149,360 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🛠 Tools
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Productivity</b></summary>
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    PROJECT SHOWCASE                           -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Project Showcase
+
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://github.com/AbhinavSharma0188">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavSharma0188&repo=AbhinavSharma0188&theme=tokyonight&hide_border=true&title_color=38b2ac&icon_color=4fd1c5&text_color=e2e8f0&bg_color=0d1117" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>🔨 Project 1 — Real-Time Chat App</b></summary>
+<br/>
+
+> **Tech Stack:**
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+A fully featured real-time chat application with rooms, private messaging, typing indicators, and read receipts. Built with **MERN + Socket.io**, deployed on Render.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+
+</details>
+
+<details>
+<summary><b>🛒 Project 2 — Full Stack E-Commerce Platform</b></summary>
+<br/>
+
+> **Tech Stack:**
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+A production-ready e-commerce platform featuring JWT auth, product management, cart system, and Razorpay/Stripe payment integration.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+
+</details>
+
+<details>
+<summary><b>📊 Project 3 — Developer Dashboard (Portfolio OS)</b></summary>
+<br/>
+
+> **Tech Stack:**
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+> ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+
+An OS-style developer portfolio with draggable windows, dark terminal, live GitHub stats integration, and project explorer.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-38b2ac?style=for-the-badge)](https://github.com/AbhinavSharma0188)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0d1117?style=for-the-badge&logo=github)](https://github.com/AbhinavSharma0188)
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     GITHUB STATS DASHBOARD                    -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38b2ac&icon_color=4fd1c5&text_color=e2e8f0&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=38b2ac&text_color=e2e8f0&bg_color=0d1117" />
 
-<br/><br/>
+<br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&stroke=38b2ac&ring=4fd1c5&fire=fbbf24&currStreakLabel=38b2ac" />
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   LEETCODE STATS PANEL                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="28"> LeetCode Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=1a1b27&color=38b2ac&line=38b2ac&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinav3614?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=16&backgroundColor=0d1117&textColor=e2e8f0&primaryColor=38b2ac&secondaryColor=4fd1c5)
+
+<br/>
+
+[![LeetCode Profile](https://img.shields.io/badge/🧩_View_Full_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhinav3614/)
+
 </div>
 
----
+<br/>
 
-## 🎯 Currently Working On
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--               CONTRIBUTION GRAPH + SNAKE                      -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=0d1117&color=38b2ac&line=4fd1c5&point=ffffff&area=true&area_color=0a3d4a&hide_border=true&custom_title=Abhinav's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ═══ SNAKE ANIMATION ═══ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                  CURRENTLY WORKING ON                         -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> What I'm Building Right Now
 
 ```text
-🔨 Building:   A full-stack scalable web app with MERN + Socket.io
-📖 Learning:   Advanced DSA, System Design & AWS Architecture
-🎯 Goal:       Land a Full Stack Developer role at a top product company
-💡 Exploring:  Docker, CI/CD Pipelines & Microservices
+🔨  Building      ██████████████░░░░░░   Full-Stack MERN + Socket.io App
+📖  Learning      █████████████░░░░░░░   DSA · System Design · AWS
+🐳  Exploring     ████████░░░░░░░░░░░░   Docker · CI/CD · Microservices
+🎯  Goal          ███████████████████░   Land a Top Product Company Role
 ```
 
----
+<br/>
 
-## 💡 Random Dev Quote
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      FUN FACTS                               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## ⚡ Fun Facts
+
+<details>
+<summary><b>Click to reveal some facts about me 🎲</b></summary>
+<br/>
+
+- 🧠 I have Googled *"how to center a div"* at least 847 times  
+- ☕ My code quality is directly proportional to cups of chai consumed  
+- 🌙 My best commits happen after midnight (peak brain hours)  
+- 🐛 I once spent 4 hours debugging — the issue was a missing semicolon  
+- 🎯 I name my variables `x`, `xx`, `xxx` when tired (I'm not proud)  
+- 🔥 I treat `console.log` as both a debugger AND a therapist  
+- 📦 `node_modules` folder size > my entire life savings  
+- 🤯 I have 17 browser tabs open right now. All Stack Overflow.  
+
+</details>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    DEV PHILOSOPHY                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 💭 Developer Philosophy
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+> *"Great code is written for humans first, machines second.*
+> *Performance is a feature. Clarity is a virtue. Shipping is an art."*
+>
+> — **Abhinav Sharma**
+
 </div>
 
----
+<br/>
 
 <div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--               🥚 SECRET EASTER EGG SECTION 🥚                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<details>
+<summary><b>🔐 You found a hidden section... dare to open it?</b></summary>
+
+<br/>
+
+```
+  ██╗    ██╗ ██████╗ ██╗    ██╗
+  ██║    ██║██╔═══██╗██║    ██║
+  ██║ █╗ ██║██║   ██║██║ █╗ ██║
+  ██║███╗██║██║   ██║██║███╗██║
+  ╚███╔███╔╝╚██████╔╝╚███╔███╔╝
+   ╚══╝╚══╝  ╚═════╝  ╚══╝╚══╝
+
+  You found the secret terminal. 👾
+```
+
+**Welcome, fellow code explorer.** 🕵️
+
+You actually clicked this. That means you're curious, detail-oriented, and probably a developer yourself.
+
+**Here's something exclusive for YOU:**
+
+```bash
+$ cat secret.txt
+
+> The real 10x developer trick?
+> It's not knowing every framework.
+> It's knowing WHEN to use none of them.
+
+> The best code you'll ever write?
+> The code you deleted.
+
+> And remember:
+> Every senior dev was once where you are.
+> Keep shipping. Keep learning.
+> The gap closes faster than you think.
+
+> — Abhinav 🚀
+```
+
+&nbsp;
+
+🎁 **Since you made it this far — let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-56131135a)
+[![Gmail](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsharma3614@gmail.com)
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   SOCIAL LINKS — PREMIUM                      -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🌐 Find Me Across the Web
+
+<div align="center">
+
+| Platform | Link | Vibe |
+|----------|------|------|
+| 💼 **LinkedIn** | [abhinav-sharma-56131135a](https://www.linkedin.com/in/abhinav-sharma-56131135a) | Professional |
+| 📧 **Gmail** | [abhinavsharma3614](mailto:abhinavsharma3614@gmail.com) | Direct |
+| 🧩 **LeetCode** | [Abhinav3614](https://leetcode.com/u/Abhinav3614/) | Problem Solver |
+| 🎨 **Behance** | [abhinavsharma224](https://www.behance.net/abhinavsharma224) | Creative |
+| 🎮 **Discord** | [Join Server](https://discord.gg/7EDnJMRy) | Community |
+| 📚 **Stack Overflow** | [abhinav-sharma](https://stackoverflow.com/users/32224723/abhinav-sharma) | Answers |
+| 📌 **Pinterest** | [abhinavsharma3614](https://in.pinterest.com/abhinavsharma3614/) | Inspo |
+| ❓ **Quora** | [Abhinav-Sharma-4709](https://www.quora.com/profile/Abhinav-Sharma-4709) | Knowledge |
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   FINAL CTA + FOOTER                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
 
 ### 🔥 *"Code. Break. Learn. Improve. Repeat."*
 
-⭐ **If you find my work useful, consider starring my repositories!**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+**⭐ Star my repos if you find them useful — it genuinely motivates me to build more!**
 
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br/>
+
+<!-- ══ FOOTER WAVE ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d4a,100:0d1117&height=100&section=footer&animation=fadeIn" />
+
+<div align="center">
+<sub>Crafted with 💚 and way too much ☕ by <b>Abhinav Sharma</b> · Updated 2025</sub>
 </div>
