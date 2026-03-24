@@ -259,7 +259,8 @@ const abhinav: Developer = {
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&stroke=38b2ac&ring=4fd1c5&fire=fbbf24&currStreakLabel=38b2ac" />
+<!-- ✅ FIX: Added timezone=Asia/Kolkata so streak counts correctly for IST (India) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&stroke=38b2ac&ring=4fd1c5&fire=fbbf24&currStreakLabel=38b2ac&timezone=Asia%2FKolkata" />
 
 </div>
 
