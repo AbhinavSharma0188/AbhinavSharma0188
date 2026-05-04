@@ -15,7 +15,6 @@
  
 ![GitHub Stars](https://img.shields.io/github/stars/AbhinavSharma0188?label=Stars&style=for-the-badge&color=fbbf24&labelColor=0d1117)
 </div>
-<!-- ══ SVG WAVE DIVIDER ══ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br/>
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
@@ -188,7 +187,6 @@ Flow-Forge is a full-stack MERN AI-powered content creation platform designed to
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavSharma0188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38b2ac&icon_color=4fd1c5&text_color=e2e8f0&bg_color=0d1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSharma0188&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=38b2ac&text_color=e2e8f0&bg_color=0d1117" />
 <br/>
-<!-- ✅ FIX: Added timezone=Asia/Kolkata so streak counts correctly for IST (India) -->
 <img width="70%" src="https://streak-stats.demolab.com?user=AbhinavSharma0188&theme=tokyonight&hide_border=true&stroke=38b2ac&ring=4fd1c5&fire=fbbf24&currStreakLabel=38b2ac&timezone=Asia%2FKolkata" />
 </div>
 <br/>
@@ -214,7 +212,6 @@ Flow-Forge is a full-stack MERN AI-powered content creation platform designed to
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavSharma0188&bg_color=0d1117&color=38b2ac&line=4fd1c5&point=ffffff&area=true&area_color=0a3d4a&hide_border=true&custom_title=Abhinav's%20Contribution%20Graph" width="100%" />
 </div>
 <br/>
-<!-- ═══ SNAKE ANIMATION ═══ -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavSharma0188/AbhinavSharma0188/output/github-contribution-grid-snake-dark.svg" />
