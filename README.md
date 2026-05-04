@@ -57,7 +57,7 @@ const abhinav: Developer = {
   name:       "Abhinav Sharma",
   alias:      "AbhinavSharma0188",
   location:   "India 🇮🇳",
-  role:       "Full Stack MERN Developer",
+  role:       "Software Engineer @ Capgemini",
   
   currentlyBuilding: "Scalable MERN + Socket.io App",
   currentlyLearning: ["Advanced DSA", "AWS", "System Design"],
