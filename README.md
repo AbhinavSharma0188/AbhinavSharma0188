@@ -2,7 +2,7 @@
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--           ANIMATED HERO BANNER — CAPSULE RENDER               --> 
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->    
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->     
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d4a,100:0d1117&height=280&section=header&text=ABHINAV%20SHARMA&fontSize=68&fontColor=38b2ac&animation=fadeIn&fontAlignY=45&desc=⚡%20Software%20Engineer%20at%20Capgemini%20|%20Full%20Stack%20MERN%20Developer%20⚡&descAlignY=68&descAlign=50&descSize=22&descColor=4fd1c5" />   
 
